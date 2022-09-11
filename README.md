@@ -1,5 +1,4 @@
 # mailbot
 
-testing something here.
-
-and again
+## References:
+https://realpython.com/lessons/sending-emails-intro-and-account-configuration/
