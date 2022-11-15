@@ -1,4 +1,6 @@
 # mailbot
+Reminder to adjust posture every 1 hour with AWS Lambda, Eventbridge & SES.
+
 
 ## References:
 - https://awstip.com/automate-sending-emails-with-aws-lambda-using-python-eventbridge-and-ses-6e09d60382aa
