@@ -1,5 +1,5 @@
 # mailbot
-Reminder to adjust posture every 1 hour with AWS Lambda, Eventbridge & SES.
+Reminder to adjust posture every 1 hour with AWS Lambda, Eventbridge & SES. 😂
 
 
 ## References:
